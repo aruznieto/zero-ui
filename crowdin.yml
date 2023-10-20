@@ -1,2 +1,5 @@
 bundles:
   - 6
+files:
+  - source: /frontend/public/locales/en/*.json
+    translation: /frontend/public/locales/%locale%/%file_name%.json
