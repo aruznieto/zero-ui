@@ -1,8 +1,0 @@
-bundles:
-  - 6
-preserve_hierarchy: 1
-commit_message: 'Fix: New translations %original_file_name% from Crowdin'
-append_commit_message: 
-files:
-  - source: /frontend/public/locales/en/common.json
-    translation: /%original_path%/%original_file_name%
