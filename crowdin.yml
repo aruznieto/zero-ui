@@ -3,5 +3,5 @@ bundles:
 preserve_hierarchy: true
 
 files:
-  - source: '/frontend/public/en/common.json',
-    translation: '/frontend/public/%original_file_name%'
+  source: '/frontend/public/en/common.json',
+  translation: '/frontend/public/%original_file_name%'
