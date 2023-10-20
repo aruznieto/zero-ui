@@ -1,5 +1,2 @@
 bundles:
   - 6
-files:
-  - source: /frontend/public/locales/common.json
-    translation: /frontend
