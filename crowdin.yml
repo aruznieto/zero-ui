@@ -6,6 +6,6 @@ files:
   [
     {
       'source': '/frontend/public/en/common.json',
-      'translation': '%original_path%/%original_file_name%'
+      'translation': '%/frontend/public/%original_file_name%'
     },
   ]
